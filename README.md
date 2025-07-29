@@ -17,7 +17,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://dev.to/https://dev.to/shiga2006" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="https://dev.to/shiga2006" height="30" width="40" /></a>
+<a href="shiga2006" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="https://dev.to/shiga2006" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/shivashiga-a-m-9ba867290/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/shivashiga-a-m-9ba867290/" height="30" width="40" /></a>
 <a href="https://kaggle.com/https://www.kaggle.com/shivashigaam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/shivashigaam" height="30" width="40" /></a>
 <a href="https://instagram.com/https://www.instagram.com/shiga_a.m" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/shiga_a.m" height="30" width="40" /></a>
