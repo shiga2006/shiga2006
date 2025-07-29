@@ -1,34 +1,44 @@
-<h1 align="center">Hi 👋, I'm Shivashiga A.M</h1>
-<h3 align="center">A passionate AIML Enthusiast from India</h3>
+# 👋 Hey there, I'm Shivashiga!
 
-- 👨‍💻 All of my projects are available at [https://portfolio-shivashiga.vercel.app/](https://portfolio-shivashiga.vercel.app/)
+Welcome to my digital garden 🌱 where code grows into real-world impact. I'm a passionate Computer Science & Engineering student, specializing in AI & ML, and I love crafting solutions—from lightweight apps to smart AI models.
 
-- 📝 I regularly write articles on [https://hashnode.com/@shiga](https://hashnode.com/@shiga)
+---
 
-- 📫 How to reach me **shivashigaam.aiml2023@citchennai.net**
+## 🌐 Connect With Me
 
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+| Platform | Link |
+|----------|------|
+| [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/yourprofile) | Let's network! |
+| [![YouTube](https://img.shields.io/badge/YouTube-red?logo=youtube)](https://www.youtube.com/yourchannel) | Watch my dev vlogs 🎥 |
+| [![Instagram](https://img.shields.io/badge/Instagram-pink?logo=instagram)](https://www.instagram.com/yourprofile) | Casual tech stories 📸 |
+| [![Dev.to](https://img.shields.io/badge/DEV-%23000000.svg?logo=dev.to&logoColor=white)](https://dev.to/yourprofile) | Blog posts and ideas |
+| [![Discord](https://img.shields.io/badge/Discord-5865F2?logo=discord&logoColor=white)](https://discord.com/users/yourid) | Let's chat tech! |
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://dev.to/https://app.daily.dev/shivashigaam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="https://app.daily.dev/shivashigaam" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/shivashiga-a-m-9ba867290/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/shivashiga-a-m-9ba867290/" height="30" width="40" /></a>
-<a href="https://kaggle.com/https://www.kaggle.com/shivashigaam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/shivashigaam" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/shiga_a.m" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/shiga_a.m" height="30" width="40" /></a>
-<a href="https://hashnode.com/https://hashnode.com/@shiga" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="https://hashnode.com/@shiga" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/https://www.youtube.com/@shivashigaamaiml" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/@shivashigaamaiml" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/https://www.codechef.com/users/shivashiga_am" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="https://www.codechef.com/users/shivashiga_am" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/u/shivashiga/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/shivashiga/" height="30" width="40" /></a>
-<a href="https://discord.gg/shivashiga_22197" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="shivashiga_22197" height="30" width="40" /></a>
-</p>
+---
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
+## 🛠️ Languages & Tools I Play With
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shiga2006&show_icons=true&locale=en&layout=compact" alt="shiga2006" /></p>
+| Languages | Frameworks & Libraries | Tools & Platforms |
+|----------|--------------------------|------------------|
+| ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) <br> ![Java](https://img.shields.io/badge/Java-ED8B00?logo=java&logoColor=white) <br> ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black) | ![Flask](https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white) <br> ![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB) <br> ![Vue.js](https://img.shields.io/badge/Vue.js-35495E?logo=vue.js&logoColor=4FC08D) <br> ![Flutter](https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white) | ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white) <br> ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white) <br> ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white) <br> ![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazon-aws&logoColor=white) |
+| ![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white) <br> ![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white) | ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?logo=opencv&logoColor=white) <br> ![scikit-learn](https://img.shields.io/badge/Scikit--Learn-F7931E?logo=scikit-learn&logoColor=white) <br> ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white) <br> ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white) | ![Chart.js](https://img.shields.io/badge/Chart.js-F5788D?logo=chart.js&logoColor=white) <br> ![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?logo=python&logoColor=white) |
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shiga2006&show_icons=true&locale=en" alt="shiga2006" /></p>
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shiga2006&" alt="shiga2006" /></p>
+## 📌 What I'm up to
+
+- 🌱 Currently exploring: **Few-shot learning** & **AI for manufacturing**
+- 💻 Building: Real-world ML apps, responsive websites, and open-source tools
+- 🚀 Actively contributing to: Hackathons, ML model tuning, and research initiatives
+- 🧠 Fun Fact: I consider code as poetry and logic as rhythm!
+
+---
+
+## 📫 Reach out to collaborate or connect!
+
+If you're into AI, ML, or cool open-source stuff—let’s connect and build something awesome together 🚀
+
+---
+
+> “Every great developer you know got there by solving problems they were unqualified to solve until they actually did it.” — Patrick McKenzie
+
