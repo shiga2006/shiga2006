@@ -1,4 +1,4 @@
-# Hi 👋, I'm Shivashiga A.M
+# Hi 👋, I'm SHIVASHIGA A.M
 ### A passionate AIML Enthusiast from India
 
 - 🌱 I'm currently learning **Flutter**
