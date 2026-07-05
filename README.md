@@ -1,6 +1,6 @@
 <div align="center">
 
-# Shivashiga A.M.
+# Shivashiga A.M
 
 **CSE (AI & ML) Undergraduate · Research-Oriented Developer · AI for Manufacturing**
 
