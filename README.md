@@ -21,7 +21,7 @@ I'm a **Computer Science Engineering (AI & ML)** undergraduate at CIT Chennai (2
 - 🧠 **Core interests** — Meta-learning, model optimization, intelligent systems
 - 📱 **Currently learning** — Flutter for cross-platform development
 - ✍️ **Technical writer** — Publishing AI/ML articles on [Hashnode](https://hashnode.com/@shiga) and [Dev.to](https://dev.to/shiga2006)
-- 📫 **Open to** — Research collaborations, internships, and ML engineering roles
+- 📫 **Open to** — Research collaborations, internships, and ML engineering , software developer roles
 
 ---
 
